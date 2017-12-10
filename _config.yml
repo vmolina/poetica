@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Poetica
+tagline:             'Calaix de sastre'
+description:         'Calaix de sastre, escrits sense terminar.'
+url:                 localhost
+#baseurl:             ''
+paginate:            10
+
+# About/contact
+author:
+  name:              Víctor Bellón
+  url:               https://twitter.com/aldagrim
+  email:             vbellonbcn@gmail.com
+
+# Custom vars
+version:             1.0.0
+plugins:
+  - jekyll-paginate
