@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Poetica
 tagline:             'Calaix de sastre'
 description:         'Calaix de sastre, escrits sense terminar.'
-url:                 'https://vmolina.github.io/poetica/'
-baseurl:             'https://vmolina.github.io/poetica/'
+#url:                 'https://vmolina.github.io/poetica/'
+#baseurl:             'https://vmolina.github.io/poetica/'
 paginate:            10
 
 # About/contact
